@@ -1,3 +1,5 @@
+Live link: https://ludeng303.github.io/hangman/
+
 ## Hangman Game
 
 Select a letter to figure out a hidden word in a set amount of chances
