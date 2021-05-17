@@ -1,4 +1,4 @@
-Live link: https://ludeng303.github.io/hangman/
+Live link: https://xiaolu-ignite.github.io/hangman/
 
 ## Hangman Game
 
